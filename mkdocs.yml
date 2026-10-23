@@ -1,0 +1,97 @@
+site_name: Production Tracker — Help
+site_description: How to plan, track and publish Quanta's articles, podcasts and videos in the Production Tracker.
+site_author: Quanta Magazine
+
+# Set to the published address once the GitHub repo and Pages are created, e.g.
+# https://dominicrannie.github.io/quanta-help/  or a custom domain.
+site_url: https://dominicrannie.github.io/quanta-help/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
+  icon:
+    logo: material/timeline-check
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+# ---------------------------------------------------------------------------
+# Navigation. To add a page: create the .md file under docs/ and add a line
+# here. Indentation sets the sidebar grouping.
+# ---------------------------------------------------------------------------
+nav:
+  - Home: index.md
+  - Getting started:
+      - getting-started/how-it-fits-together.md
+      - getting-started/where-to-find-things.md
+      - getting-started/your-day.md
+      - getting-started/glossary.md
+  - Pieces:
+      - pieces/index.md
+      - pieces/add-a-pitch.md
+      - pieces/schedule-a-piece.md
+      - pieces/who-does-what.md
+      - pieces/park-or-kill-a-piece.md
+      - pieces/content-types.md
+  - Steps:
+      - steps/index.md
+      - steps/tick-a-step.md
+      - steps/dates-and-due-back.md
+      - steps/reassign-a-step.md
+      - steps/add-your-own-step.md
+  - Art:
+      - art/index.md
+      - art/request-art.md
+      - art/graphics-and-infographics.md
+  - Slack alerts: alerts/index.md
+  - For admins:
+      - admin/index.md
+      - admin/step-templates.md
+      - admin/people-and-slack.md
+      - admin/change-alert-wording.md
+  - Quick links: quick-links.md
