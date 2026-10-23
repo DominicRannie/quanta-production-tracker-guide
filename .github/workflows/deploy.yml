@@ -1,4 +1,4 @@
-name: Deploy help site
+name: Deploy user guide
 
 # Rebuilds and publishes the site to GitHub Pages every time a change is pushed
 # to the main branch. No manual steps once Pages is set to "GitHub Actions".

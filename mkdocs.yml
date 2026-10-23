@@ -1,10 +1,10 @@
-site_name: Production Tracker — Help
+site_name: Production Tracker — User Guide
 site_description: How to plan, track and publish Quanta's articles, podcasts and videos in the Production Tracker.
 site_author: Quanta Magazine
 
 # Set to the published address once the GitHub repo and Pages are created, e.g.
-# https://dominicrannie.github.io/quanta-help/  or a custom domain.
-site_url: https://dominicrannie.github.io/quanta-help/
+# https://dominicrannie.github.io/quanta-production-tracker-guide/  or a custom domain.
+site_url: https://dominicrannie.github.io/quanta-production-tracker-guide/
 
 theme:
   name: material

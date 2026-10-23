@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Production Tracker — Help
+# Production Tracker — User Guide
 
 Welcome. This is the guide to the **Production Tracker**, the place where every Quanta piece — article, podcast episode, video, newsletter — is planned, tracked and published. It replaces the Asana board.
 
