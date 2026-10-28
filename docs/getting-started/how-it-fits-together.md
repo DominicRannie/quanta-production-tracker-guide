@@ -1,6 +1,6 @@
 # How it fits together
 
-The tracker is built on four ideas. Once they click, every screen makes sense.
+The tracker is built on four central ideas. This page describes them in outline.
 
 ## A piece
 

@@ -10,7 +10,7 @@ At 8:30 New York every weekday, the tracker sends you a Slack direct message if 
 
 ## Through the day — My work
 
-Open [**My work**](https://airtable.com/appFlJWmSk0RDIf1U/pbdMlP776N9XQeREM/pagH9V6ux14ZXhxhl){target=_blank}. Your steps are listed soonest first, with the piece they belong to and their status: *Overdue*, *Due soon* (within three days), *Upcoming* or *Undated*. When you finish one, open it and tick **Done**. That is all the tracker needs; the piece's status and the next person's list update on their own.
+Open [**My work**](https://airtable.com/appFlJWmSk0RDIf1U/pbdMlP776N9XQeREM/pagH9V6ux14ZXhxhl){target=_blank} and find your name. Your steps are listed soonest first, with the piece they belong to and their status: *Overdue*, *Due soon* (within three days), *Upcoming* or *Undated*. The tabs along the top cut the list by track; *Overdue* shows only what is late. When you finish one, open it and tick **Done**. That is all the tracker needs; the piece's status and the next person's list update on their own.
 
 If a step arrives on your list during the day — a new piece was scheduled, or someone passed a step to you — Slack tells you at the time.
 

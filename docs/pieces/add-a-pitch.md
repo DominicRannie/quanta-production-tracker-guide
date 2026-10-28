@@ -7,7 +7,7 @@ A piece enters the tracker as soon as it is a workable pitch — before it has a
 
 ## What you give it
 
-A pitch needs very little: a **slug** (the short name in capitals), its **content type**, a **subject area** (Math, Biology, Physics or CS), and yourself as **Editor**. If the pitch has a document, paste its link into **Pitch doc**. If you already know when the writer's draft is due, put that date in **Draft due**; it is optional at this stage.
+A pitch needs very little: a **slug** (the short name in capitals), its **content type**, a **subject area** (Physics, Mathematics, Biology or Computer Science), and yourself as **Editor**. If the pitch has a document, paste its link into **Pitch doc**. If you already know when the writer's draft is due, put that date in **Draft due**; it is optional at this stage.
 
 That is a pitch. Its status shows *Pitched*, it appears in the backlog, and it has no steps yet — nothing is on anyone's list until the piece is real.
 
@@ -16,4 +16,4 @@ That is a pitch. Its status shows *Pitched*, it appears in the backlog, and it h
 When the pitch or the draft is accepted, [give the piece its publish date](schedule-a-piece.md). The tracker builds its steps at that moment and the piece moves onto the calendar.
 
 !!! note "The pitch form and the backlog page"
-    The new-piece form and the backlog page grouped by subject area are being designed with Samir. Until then, pitches are added from **Pipeline** and show there under *Pitched*.
+    The new-piece form and the backlog page grouped by subject area are being designed with Samir. Until the form exists there is no button in the tracker for a new piece: ask whoever administers the base to add the row, and it then shows on **Pipeline** in its stream's tab as *Pitched*.

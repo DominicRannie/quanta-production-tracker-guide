@@ -6,9 +6,9 @@ hide:
 
 # Production Tracker — User Guide
 
-Welcome. This is the guide to the **Production Tracker**, the place where every Quanta piece — article, podcast episode, video, newsletter — is planned, tracked and published. It replaces the Asana board.
+Welcome. This is the guide to the **Production Tracker**, the place where every Quanta piece — article, podcast episode, video, newsletter — is planned, tracked and published.
 
-You don't need to know anything about databases to use it. Each page below walks you through one job, step by step. The tracker does the bookkeeping: when a piece gets a publish date, every step it needs appears on the right person's list with the right date, and Slack tells you when something lands on yours.
+Each page below walks you through one job, step by step. The tracker does the bookkeeping: when a piece gets a publish date, every step it needs appears on the right person's list with the right date, and Slack tells you when something lands on yours.
 
 !!! tip "New here? Start with the basics"
     Read **[How it fits together](getting-started/how-it-fits-together.md)** first. It explains the four ideas the whole system is built on — pieces, steps, tracks and people — in five minutes.

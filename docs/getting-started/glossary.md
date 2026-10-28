@@ -4,9 +4,9 @@
 
 **Slug** — a piece's short working name, in capitals (`RNA WORLD`). Steps are named after it: `RNA WORLD · Fact check`.
 
-**Content type** — the kind of piece: Articles, Video, The Joy of Why, The Quanta Podcast, Articles – Image Gallery, Articles – Transformation, Newsletters, and so on. The type decides which steps a piece gets.
+**Content type** — the kind of piece: Articles, Video, The Joy of Why, The Quanta Podcast, Articles – Image Gallery, Articles – Transformation, Newsletters, and so on. The type decides which steps a piece gets. Types belong to a **stream** — Articles, Podcasts, Video, Newsletters — which is how Pipeline and Timeline group them.
 
-**Pitch / Pitched** — a piece with no publish date yet. It sits in the backlog and has no steps.
+**Pitch / Pitched** — a piece with no publish date yet. It has no steps and shows on Pipeline without a date until a Backlog page exists.
 
 **Commissioned** — a piece with a publish date and nothing editorial ticked yet.
 

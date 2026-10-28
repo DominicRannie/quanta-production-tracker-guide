@@ -2,7 +2,9 @@
 
 The scaffold, navigation, deploy config and the core articles are in place. Three things take it to launch.
 
-## 1. Confirm the interface links
+## 1. Confirm the interface links — checked 2026-10-28
+
+All four page IDs resolve to published pages of `Production tracker (demo)` (read through the API on 2026-10-28). Re-check if the interface is renamed or pages rebuilt.
 
 Pages link straight to the tracker's screens with URLs built from the base's IDs (`https://airtable.com/appFlJWmSk0RDIf1U/pbdMlP776N9XQeREM/{page}`). Open each once from **Quick links** and confirm it lands. If the interface is renamed from *Production tracker (demo)* or pages are rebuilt, the IDs may change — update `docs/quick-links.md` and the pages that link to each screen (search `pag` under `docs/`).
 
@@ -37,4 +39,4 @@ Each article has a dashed placeholder where a screenshot goes. Save the image in
 - **Where to find things** — add the Backlog page when it exists; confirm the names of the record pages.
 - **Content types** — Newsletters and Articles – Social Exclusive have no steps yet; Video, podcasts and galleries have offsets pending.
 - **Alerts** — once the Slack connection moves to the Quanta workspace and test mode is off, remove the `testNote` row from the token table if the token is deleted from the blocks.
-- Review every page against the real interface from an end user's point of view; this starter was written from the data model and automations, before the interface was settled.
+- Review every page against the real interface from an end user's point of view — round 1 done 2026-10-28 (vault: `Specifications/2026-10-28 - User guide review against the interface.md`): guide corrected for My work (team list grouped by person), Timeline, Pipeline tabs, pitch creation, subject names, ad-hoc steps. Repeat after each designer pass.
