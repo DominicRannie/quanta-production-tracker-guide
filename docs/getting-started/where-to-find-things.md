@@ -9,17 +9,19 @@ The tracker is an Airtable interface called **Production tracker**. It has four 
 | [**Pipeline**](https://airtable.com/appFlJWmSk0RDIf1U/pbdMlP776N9XQeREM/pagTU2JvGpMKJK4jc){target=_blank} | Every unpublished piece as a list, one tab per stream (Articles, Podcasts, Video, Newsletters) sorted by publish date, with its status, editor, writers and what is due next; a *Published* tab for what has gone out. |
 | [**Art requests**](https://airtable.com/appFlJWmSk0RDIf1U/pbdMlP776N9XQeREM/pagcK8rOZFtdfgdEn){target=_blank} | The art team's view: every request and the images asked for. |
 
-<span class="screenshot-placeholder">Screenshot to add: the Production tracker's left-hand menu with the four screens</span>
+![The Production tracker's left-hand menu: My work, Timeline, Pipeline and Art requests](../assets/tracker-menu.png)
 
 ## A piece's page
 
 Click any piece on Timeline or Pipeline and it opens. The top shows its name, type, publish date, status and people. Below are its steps by track, its art request, and its notes and links. Almost everything you do to a piece — set the date, name the fact checker, put it on hold — you do here.
 
-<span class="screenshot-placeholder">Screenshot to add: a piece's page with the people fields and the steps list</span>
+![A piece's page: name, type, publish date and status at the top, its people, then its steps by track](../assets/piece-page.png)
 
 ## A step's page
 
-Click a step anywhere and it opens too: owner, due, due back, the Done box, a notes field, and a place for the draft link or file.
+Click a step to open its details: owner, due, due back, the Done button, a notes field, and a place for the draft link or file.
+
+![A step's page: owner, due, due back, the Done button, a notes field, and a place for the draft link or file](../assets/step-details-page.png)
 
 !!! note "Where is the backlog?"
     Pitched pieces — no date yet — sit in their stream's tab on **Pipeline** with status *Pitched* and no publish date. A Backlog page grouped by subject area is coming once the pitch flow is agreed.

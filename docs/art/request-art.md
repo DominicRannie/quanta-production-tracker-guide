@@ -8,7 +8,7 @@ After the first or second edit, the editor tells the art team what the piece nee
 2. Write the overview: what the piece is about, the lede ideas, anything the art team should know.
 3. Add one **item** per image: a subject, an **image type** (*Photo*, *Portrait*, *Graphic or figure*, *Illustration*, *Animation*, *Video still*) and any notes.
 
-<span class="screenshot-placeholder">Screenshot to add: an art request with three items</span>
+![An art request and its items, each with a type, placement and status](../assets/art-request.png)
 
 The request appears on the art team's [Art requests](https://airtable.com/appFlJWmSk0RDIf1U/pbdMlP776N9XQeREM/pagcK8rOZFtdfgdEn){target=_blank} screen. As images come in and are approved, the counts — requested, received, approved — roll up to the request and to the piece, so an editor can see at a glance where the art stands without asking.
 

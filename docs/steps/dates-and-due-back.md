@@ -4,7 +4,7 @@ Every standard step is dated from the piece's publish date, so the calendar is a
 
 ## Due and due back
 
-**Due** is when a step must start or be delivered. **Due back** is when the work returns to the editor, and it is always 9 am New York on the due-back day. Editorial steps are counted in **working days**, Monday to Friday, so a window never swallows a weekend.
+**Due** is when a step must start or be delivered. **Due back** is when the work returns to the editor, and it is always 9 am New York on the due-back day. Editorial steps are counted in **working days**, Monday to Friday, so a window never includes a weekend.
 
 | Step | Due | Back |
 |---|---|---|

@@ -7,11 +7,11 @@ When a job is finished, tick it. That single action keeps the whole piece's stat
 
 The tracker stamps **Done on** with today's date, moves the piece's status for that track to this step, and if this was the *Publish* step, marks the piece *Published*. Your morning list no longer mentions it.
 
-<span class="screenshot-placeholder">Screenshot to add: a step's page with the Done box ticked and Done on stamped</span>
+![A step's page with Done ticked and the Done on date stamped](../assets/step-done.png)
 
 ## Untick it
 
-Ticked by mistake? Untick it. The track's status rolls back to the previous done step, and the step returns to your list.
+Ticked by mistake? Untick it or click 'Undo Done' on the step details page. The track's status rolls back to the previous done step, and the step returns to your list.
 
 ## Drafts, links and notes
 

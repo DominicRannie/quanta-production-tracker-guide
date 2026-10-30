@@ -23,14 +23,15 @@ Each article has a dashed placeholder where a screenshot goes. Save the image in
 
 | Article | Suggested filename |
 |---|---|
-| Where to find things — the four screens | `tracker-menu.png` |
-| Where to find things — a piece's page | `piece-page.png` |
+| Where to find things — the four screens | `tracker-menu.png` ✅ wired 2026-10-30 |
+| Where to find things — a piece's page | `piece-page.png` ✅ wired 2026-10-30 |
+| Where to find things — a step's page | `step-details-page.png` ✅ wired 2026-10-30 |
 | Your day — morning list in Slack | `morning-list.png` |
-| Schedule a piece — steps just created | `piece-scheduled.png` |
+| Schedule a piece — steps just created | `piece-scheduled.png` ✅ wired 2026-10-30 |
 | Who does what — people fields | `people-fields.png` |
-| Tick a step — Done and Done on | `step-done.png` |
-| Request art — a request with items | `art-request.png` |
-| Graphics — tick and Commission infographic step | `graphics-needed.png` |
+| Tick a step — Done and Done on | `step-done.png` ✅ wired 2026-10-30 |
+| Request art — a request with items | `art-request.png` ✅ wired 2026-10-30 |
+| Graphics — tick and Commission infographic step | `graphics-needed.png` ✅ wired 2026-10-30 |
 | Change alert wording — Slack message box | `slack-message-box.png` |
 
 ## 3. Pages waiting on design decisions

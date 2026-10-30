@@ -16,4 +16,4 @@ That is a pitch. Its status shows *Pitched*, it appears in the backlog, and it h
 When the pitch or the draft is accepted, [give the piece its publish date](schedule-a-piece.md). The tracker builds its steps at that moment and the piece moves onto the calendar.
 
 !!! note "The pitch form and the backlog page"
-    The new-piece form and the backlog page grouped by subject area are being designed with Samir. Until the form exists there is no button in the tracker for a new piece: ask whoever administers the base to add the row, and it then shows on **Pipeline** in its stream's tab as *Pitched*.
+    The "new piece" form and the backlog page grouped by subject area are being designed with Samir. Until the form exists there is no button in the tracker for a new piece: ask whoever administers the base to add the row, and it then shows on **Pipeline** in its stream's tab as *Pitched*.
